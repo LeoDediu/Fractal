@@ -32,3 +32,5 @@ Run the following commands:
 `./fractal <number>`
 
 Press 1 for 'Mandelbrot', 2 for 'Julia', 3 for 'Burning Ship', 4 for 'Mandelbar', 5 for 'Buffalo'
+
+
